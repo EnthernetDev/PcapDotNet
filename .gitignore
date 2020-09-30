@@ -1,0 +1,9 @@
+/PcapDotNet.Base/obj
+/PcapDotNet.Base.Test/obj
+/PcapDotNet.Core/Debug
+/PcapDotNet.Core.Extensions/obj
+/PcapDotNet.Core.Test/obj
+/PcapDotNet.Packets/obj
+/PcapDotNet.Packets.Test/obj
+/PcapDotNet.Packets.TestUtils/obj
+/PcapDotNet.TestUtils/obj
